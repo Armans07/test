@@ -1,0 +1,5 @@
+{#user}
+Name: Arman sikder
+Skills: HTML, CSS, JS, Next.js,nodeJs,react,mongoDb
+Email: test@gmail.com
+{{/user}}
